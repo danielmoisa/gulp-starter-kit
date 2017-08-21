@@ -6,9 +6,9 @@ cd gulp-starter-kit
 
 npm install
 
-gulp - run for development
-or
-gulp build - run for production
+gulp --- for development
+
+gulp build --- for production
 
 
 ## List of npm packaged used
