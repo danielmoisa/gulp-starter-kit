@@ -1,6 +1,6 @@
 ## gulp-starter-kit
 
-git clone https://github.com/danielmoisa/gulp-starter-kit.git
+git clone
 
 cd gulp-starter-kit
 
