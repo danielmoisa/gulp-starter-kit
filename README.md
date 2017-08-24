@@ -1,6 +1,6 @@
 ## gulp-starter-kit
 
-git clone 
+git clone https://github.com/danielmoisa/gulp-starter-kit.git
 
 cd gulp-starter-kit
 
@@ -27,15 +27,3 @@ gulp build --- for production
 - gulp-htlmin
 - del
 - run-sequence
-
-## Frontend workflow
-
-- html5
-- css3
-- javascript
-- gulp
-- sass
-- bem
-- jquery*
-- bootstrap*
-- susy*
